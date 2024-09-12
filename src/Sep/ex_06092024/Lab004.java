@@ -1,4 +1,4 @@
-package Sep.ex_06092024;
+//package Sep.ex_64092024;
 
 public class Lab004 {
 }
